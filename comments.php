@@ -42,7 +42,7 @@ if(isset($_POST['delete_comment'])){
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="../css/admin_style.css">
-
+<!-- custom css file link  -->
 </head>
 <body>
 
